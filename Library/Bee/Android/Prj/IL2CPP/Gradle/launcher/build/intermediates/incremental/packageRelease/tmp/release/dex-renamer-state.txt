@@ -1,0 +1,4 @@
+#Sat Jul 27 19:00:47 IST 2024
+base.0=/Users/shaikyaseenbasha/anatomy/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/build/intermediates/dex/release/mergeDexRelease/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
